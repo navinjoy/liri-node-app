@@ -1,0 +1,755 @@
+
+Sun Jan 21 2018 19:04:03 GMT-0800 (PST): ERROR: Invalid arguments passed, valid arguments are : my-tweets,spotify-this-song,movie-this,do-what-it-says
+Sun Jan 21 2018 19:04:05 GMT-0800 (PST): ERROR: Invalid arguments passed, valid arguments are : my-tweets,spotify-this-song,movie-this,do-what-it-says
+Sun Jan 21 2018 19:04:07 GMT-0800 (PST): ERROR: Invalid arguments passed, valid arguments are : my-tweets,spotify-this-song,movie-this,do-what-it-says
+Sun Jan 21 2018 19:31:53 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 19:31:53 GMT-0800 (PST): error:
+Sun Jan 21 2018 19:31:53 GMT-0800 (PST): statusCode:
+Sun Jan 21 2018 19:31:53 GMT-0800 (PST): body:
+Sun Jan 21 2018 19:33:12 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 19:33:12 GMT-0800 (PST): error:null
+Sun Jan 21 2018 19:33:12 GMT-0800 (PST): statusCode:200
+Sun Jan 21 2018 19:33:12 GMT-0800 (PST): body:{"Search":[{"Title":"Baahubali: The Beginning","Year":"2015","imdbID":"tt2631186","Type":"movie","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmE4YjFmNWQtYTk5ZC00OGU3LWFlOTQtNThmYjBhZjhlNzU5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg"},{"Title":"Baahubali 2: The Conclusion","Year":"2017","imdbID":"tt4849438","Type":"movie","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMWRjOTAxMmQtMjViMC00OWU2LTlkZTQtNTYyYjhiZjMzYjg4XkEyXkFqcGdeQXVyODA2ODM3NDQ@._V1_SX300.jpg"},{"Title":"Baahubali: The Lost Legends","Year":"2017–","imdbID":"tt5523460","Type":"series","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BNjJjMjZlODQtYmUxYi00NzI2LTkzMmEtMzU3MDI3M2I2NzRhXkEyXkFqcGdeQXVyNzkyNTg2NzI@._V1_SX300.jpg"},{"Title":"Veer Baahubali","Year":"2005","imdbID":"tt4942328","Type":"movie","Poster":"N/A"}],"totalResults":"4","Response":"True"}
+Sun Jan 21 2018 19:43:04 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 19:43:05 GMT-0800 (PST): Tweet 0 : Hello Sunday...21Jan
+Sun Jan 21 2018 19:43:05 GMT-0800 (PST): Tweet 1 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Sun Jan 21 2018 19:43:05 GMT-0800 (PST): Tweet 2 : Evening Tweet3
+Sun Jan 21 2018 19:43:05 GMT-0800 (PST): Tweet 3 : This is Tweet2....woo hoo
+Sun Jan 21 2018 19:43:05 GMT-0800 (PST): Tweet 4 : Helllooo..Tweet1
+Sun Jan 21 2018 19:43:05 GMT-0800 (PST): Tweet 5 : Interesting.. https://t.co/Vegm6oz5lj
+Sun Jan 21 2018 19:43:05 GMT-0800 (PST): 6
+Sun Jan 21 2018 19:43:41 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 19:43:41 GMT-0800 (PST): Tweet 01 : Hello Sunday...21Jan
+Sun Jan 21 2018 19:43:41 GMT-0800 (PST): Tweet 11 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Sun Jan 21 2018 19:43:41 GMT-0800 (PST): Tweet 21 : Evening Tweet3
+Sun Jan 21 2018 19:43:41 GMT-0800 (PST): Tweet 31 : This is Tweet2....woo hoo
+Sun Jan 21 2018 19:43:41 GMT-0800 (PST): Tweet 41 : Helllooo..Tweet1
+Sun Jan 21 2018 19:43:41 GMT-0800 (PST): Tweet 51 : Interesting.. https://t.co/Vegm6oz5lj
+Sun Jan 21 2018 19:43:41 GMT-0800 (PST): 6
+Sun Jan 21 2018 19:43:56 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 19:43:56 GMT-0800 (PST): Tweet 01 : Hello Sunday...21Jan
+Sun Jan 21 2018 19:43:56 GMT-0800 (PST): Tweet 11 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Sun Jan 21 2018 19:43:56 GMT-0800 (PST): Tweet 21 : Evening Tweet3
+Sun Jan 21 2018 19:43:56 GMT-0800 (PST): Tweet 31 : This is Tweet2....woo hoo
+Sun Jan 21 2018 19:43:56 GMT-0800 (PST): Tweet 41 : Helllooo..Tweet1
+Sun Jan 21 2018 19:43:56 GMT-0800 (PST): Tweet 51 : Interesting.. https://t.co/Vegm6oz5lj
+Sun Jan 21 2018 19:43:56 GMT-0800 (PST): 6
+Sun Jan 21 2018 19:44:51 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 19:44:51 GMT-0800 (PST): Tweet 1 : Hello Sunday...21Jan
+Sun Jan 21 2018 19:44:51 GMT-0800 (PST): Tweet 2 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Sun Jan 21 2018 19:44:51 GMT-0800 (PST): Tweet 3 : Evening Tweet3
+Sun Jan 21 2018 19:44:51 GMT-0800 (PST): Tweet 4 : This is Tweet2....woo hoo
+Sun Jan 21 2018 19:44:51 GMT-0800 (PST): Tweet 5 : Helllooo..Tweet1
+Sun Jan 21 2018 19:44:51 GMT-0800 (PST): Tweet 6 : Interesting.. https://t.co/Vegm6oz5lj
+Sun Jan 21 2018 19:44:51 GMT-0800 (PST): 6
+Sun Jan 21 2018 19:48:26 GMT-0800 (PST): ERROR: Invalid arguments passed, valid arguments are : my-tweets,spotify-this-song,movie-this,do-what-it-says
+Sun Jan 21 2018 20:03:13 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:03:13 GMT-0800 (PST): Chaitra
+Sun Jan 21 2018 20:03:35 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:03:38 GMT-0800 (PST): TypeError: Cannot read property 'artists' of undefined
+Sun Jan 21 2018 20:05:01 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:05:02 GMT-0800 (PST): TypeError: Cannot read property 'artists' of undefined
+Sun Jan 21 2018 20:05:42 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:05:43 GMT-0800 (PST): TypeError: Cannot read property 'name' of undefined
+Sun Jan 21 2018 20:06:28 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:06:28 GMT-0800 (PST): [object Object]
+Sun Jan 21 2018 20:07:58 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:07:59 GMT-0800 (PST): [object Object]
+Sun Jan 21 2018 20:08:35 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:08:39 GMT-0800 (PST): 2
+Sun Jan 21 2018 20:08:59 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:09:00 GMT-0800 (PST): [object Object]
+Sun Jan 21 2018 20:10:53 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:10:54 GMT-0800 (PST): [object Object]
+Sun Jan 21 2018 20:11:10 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:12:14 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:15:56 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:18:26 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:19:10 GMT-0800 (PST): ##### valid user Command passed ##### 
+Checking for Command Args...
+Sun Jan 21 2018 20:22:28 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +Naalo+Nenu
+Sun Jan 21 2018 20:22:28 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:24:08 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: 
+Sun Jan 21 2018 20:24:08 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:24:50 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: 
+Sun Jan 21 2018 20:24:50 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:25:07 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: 
+Sun Jan 21 2018 20:25:07 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:25:18 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: 
+Sun Jan 21 2018 20:25:18 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:26:23 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: 
+Sun Jan 21 2018 20:26:23 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:29:07 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: 
+Sun Jan 21 2018 20:29:07 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:29:24 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: 
+Sun Jan 21 2018 20:29:24 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:38:08 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +unnatunde+gundey
+Sun Jan 21 2018 20:38:08 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:38:55 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +unnatunde+gundey
+Sun Jan 21 2018 20:38:55 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:39:26 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +unnatundi+gundey
+Sun Jan 21 2018 20:39:26 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:40:23 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +unnatundi+gundey
+Sun Jan 21 2018 20:40:23 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:41:44 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +unnatundi+gundey
+Sun Jan 21 2018 20:41:44 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:45:32 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +rendu+kallu
+Sun Jan 21 2018 20:45:32 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:46:10 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +unnatundi+gundey
+Sun Jan 21 2018 20:46:10 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:47:39 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagada
+Sun Jan 21 2018 20:47:39 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:48:08 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagada
+Sun Jan 21 2018 20:48:08 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:48:34 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagada
+Sun Jan 21 2018 20:48:34 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:48:55 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagaada
+Sun Jan 21 2018 20:48:55 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:49:32 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagaada
+Sun Jan 21 2018 20:49:32 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 20:50:15 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagaada
+Sun Jan 21 2018 20:50:15 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 21:07:18 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagaada
+Sun Jan 21 2018 21:07:18 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 21:08:03 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagaada
+Sun Jan 21 2018 21:08:03 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 22:57:58 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagaada
+Sun Jan 21 2018 22:57:58 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 22:57:58 GMT-0800 (PST): Artist(s) : Sinov Raj, Sindhuri, 
+Sun Jan 21 2018 22:57:58 GMT-0800 (PST): Song Name : Fidaa (Original Motion Picture Soundtrack)
+Sun Jan 21 2018 22:57:58 GMT-0800 (PST): Album Name : Fidaa (Original Motion Picture Soundtrack)
+Sun Jan 21 2018 22:57:58 GMT-0800 (PST): Spotify Song Link : https://open.spotify.com/album/5aJXLl0hK81jlB92ivjuSg
+Sun Jan 21 2018 22:59:58 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagaada
+Sun Jan 21 2018 22:59:58 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 23:06:05 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagaada
+Sun Jan 21 2018 23:06:05 GMT-0800 (PST): ##### valid user Command passed #####.
+Sun Jan 21 2018 23:07:51 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagaada
+Sun Jan 21 2018 23:13:08 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagaada
+Sun Jan 21 2018 23:13:37 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagaada
+Sun Jan 21 2018 23:13:56 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +hey+pillagaada
+Sun Jan 21 2018 23:14:25 GMT-0800 (PST): UserCommand: my-tweets | userCommandQuery: 
+Sun Jan 21 2018 23:14:25 GMT-0800 (PST): Tweet 1 : Hello Sunday...21Jan
+Sun Jan 21 2018 23:14:25 GMT-0800 (PST): Tweet 2 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Sun Jan 21 2018 23:14:25 GMT-0800 (PST): Tweet 3 : Evening Tweet3
+Sun Jan 21 2018 23:14:25 GMT-0800 (PST): Tweet 4 : This is Tweet2....woo hoo
+Sun Jan 21 2018 23:14:25 GMT-0800 (PST): Tweet 5 : Helllooo..Tweet1
+Sun Jan 21 2018 23:14:25 GMT-0800 (PST): Tweet 6 : Interesting.. https://t.co/Vegm6oz5lj
+Sun Jan 21 2018 23:14:25 GMT-0800 (PST): 6
+Sun Jan 21 2018 23:17:58 GMT-0800 (PST): UserCommand: my-tweets | userCommandQuery: 
+Sun Jan 21 2018 23:17:59 GMT-0800 (PST): Tweet 1 : Tweet : Once you replace negative thoughts with positive ones, you'll start having positive results.
+Sun Jan 21 2018 23:17:59 GMT-0800 (PST): Tweet 2 : Tweet : Keep your face to the sunshine and you cannot see a shadow.
+Sun Jan 21 2018 23:17:59 GMT-0800 (PST): Tweet 3 : Hello Sunday...21Jan
+Sun Jan 21 2018 23:17:59 GMT-0800 (PST): Tweet 4 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Sun Jan 21 2018 23:17:59 GMT-0800 (PST): Tweet 5 : Evening Tweet3
+Sun Jan 21 2018 23:17:59 GMT-0800 (PST): Tweet 6 : This is Tweet2....woo hoo
+Sun Jan 21 2018 23:17:59 GMT-0800 (PST): Tweet 7 : Helllooo..Tweet1
+Sun Jan 21 2018 23:17:59 GMT-0800 (PST): Tweet 8 : Interesting.. https://t.co/Vegm6oz5lj
+Sun Jan 21 2018 23:17:59 GMT-0800 (PST): 8
+Sun Jan 21 2018 23:19:14 GMT-0800 (PST): UserCommand: my-tweets | userCommandQuery: 
+Sun Jan 21 2018 23:19:14 GMT-0800 (PST): Tweet 1 : Tweet : Yesterday is not ours to recover, but tomorrow is ours to win or lose.
+Sun Jan 21 2018 23:19:14 GMT-0800 (PST): Tweet 2 : Tweet : Once you replace negative thoughts with positive ones, you'll start having positive results.
+Sun Jan 21 2018 23:19:14 GMT-0800 (PST): Tweet 3 : Tweet : Keep your face to the sunshine and you cannot see a shadow.
+Sun Jan 21 2018 23:19:14 GMT-0800 (PST): Tweet 4 : Hello Sunday...21Jan
+Sun Jan 21 2018 23:19:14 GMT-0800 (PST): Tweet 5 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Sun Jan 21 2018 23:19:14 GMT-0800 (PST): Tweet 6 : Evening Tweet3
+Sun Jan 21 2018 23:19:14 GMT-0800 (PST): Tweet 7 : This is Tweet2....woo hoo
+Sun Jan 21 2018 23:19:14 GMT-0800 (PST): Tweet 8 : Helllooo..Tweet1
+Sun Jan 21 2018 23:19:14 GMT-0800 (PST): Tweet 9 : Interesting.. https://t.co/Vegm6oz5lj
+Sun Jan 21 2018 23:19:14 GMT-0800 (PST): 9
+Sun Jan 21 2018 23:20:25 GMT-0800 (PST): UserCommand: my-tweets | userCommandQuery: 
+Sun Jan 21 2018 23:20:25 GMT-0800 (PST): Tweet 1 : Tweet : Yesterday is not ours to recover, but tomorrow is ours to win or lose.
+Sun Jan 21 2018 23:20:25 GMT-0800 (PST): Tweet 2 : Tweet : Once you replace negative thoughts with positive ones, you'll start having positive results.
+Sun Jan 21 2018 23:20:25 GMT-0800 (PST): Tweet 3 : Tweet : Keep your face to the sunshine and you cannot see a shadow.
+Sun Jan 21 2018 23:20:25 GMT-0800 (PST): Tweet 4 : Hello Sunday...21Jan
+Sun Jan 21 2018 23:20:25 GMT-0800 (PST): Tweet 5 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Sun Jan 21 2018 23:20:25 GMT-0800 (PST): Tweet 6 : Evening Tweet3
+Sun Jan 21 2018 23:20:25 GMT-0800 (PST): Tweet 7 : This is Tweet2....woo hoo
+Sun Jan 21 2018 23:20:25 GMT-0800 (PST): Tweet 8 : Helllooo..Tweet1
+Sun Jan 21 2018 23:20:25 GMT-0800 (PST): Tweet 9 : Interesting.. https://t.co/Vegm6oz5lj
+Sun Jan 21 2018 23:23:10 GMT-0800 (PST): UserCommand: my-tweets | userCommandQuery: 
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 1 : Tweet : Positive thinking is more than just a tagline. It changes the way we behave. And I firmly believe that when… https://t.co/fZcLw5gBQc
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 2 : Tweet : The thing that lies at the foundation of positive change, the way I see it, is service to a fellow human being.
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 3 : Tweet : You can't make positive choices for the rest of your life without an environment that makes those choices e… https://t.co/EK2uiE2Esg
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 5 : Tweet : Positive thinking will let you do everything better than negative thinking will
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 4 : Tweet : Pessimism leads to weakness, optimism to power.
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 6 : Tweet : I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 7 : Tweet : In order to carry a positive action we must develop here a positive vision.
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 8 : Tweet : Yesterday is not ours to recover, but tomorrow is ours to win or lose.
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 9 : Tweet : Once you replace negative thoughts with positive ones, you'll start having positive results.
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 10 : Tweet : Keep your face to the sunshine and you cannot see a shadow.
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 11 : Hello Sunday...21Jan
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 12 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 13 : Evening Tweet3
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 14 : This is Tweet2....woo hoo
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 15 : Helllooo..Tweet1
+Sun Jan 21 2018 23:23:11 GMT-0800 (PST): Tweet 16 : Interesting.. https://t.co/Vegm6oz5lj
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): UserCommand: my-tweets | userCommandQuery: 
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 1 : Tweet : Positive thinking is more than just a tagline. It changes the way we behave. And I firmly believe that when… https://t.co/fZcLw5gBQc
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 2 : Tweet : The thing that lies at the foundation of positive change, the way I see it, is service to a fellow human being.
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 3 : Tweet : You can't make positive choices for the rest of your life without an environment that makes those choices e… https://t.co/EK2uiE2Esg
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 4 : Tweet : Pessimism leads to weakness, optimism to power.
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 5 : Tweet : Positive thinking will let you do everything better than negative thinking will
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 6 : Tweet : I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 7 : Tweet : In order to carry a positive action we must develop here a positive vision.
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 8 : Tweet : Yesterday is not ours to recover, but tomorrow is ours to win or lose.
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 9 : Tweet : Once you replace negative thoughts with positive ones, you'll start having positive results.
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 10 : Tweet : Keep your face to the sunshine and you cannot see a shadow.
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 11 : Hello Sunday...21Jan
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 12 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 13 : Evening Tweet3
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 14 : This is Tweet2....woo hoo
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 15 : Helllooo..Tweet1
+Sun Jan 21 2018 23:26:17 GMT-0800 (PST): Tweet 16 : Interesting.. https://t.co/Vegm6oz5lj
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): UserCommand: my-tweets | userCommandQuery: 
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 1 : Tweet : Positive thinking is more than just a tagline. It changes the way we behave. And I firmly believe that when… https://t.co/fZcLw5gBQc
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 2 : Tweet : The thing that lies at the foundation of positive change, the way I see it, is service to a fellow human being.
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 3 : Tweet : You can't make positive choices for the rest of your life without an environment that makes those choices e… https://t.co/EK2uiE2Esg
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 4 : Tweet : Pessimism leads to weakness, optimism to power.
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 5 : Tweet : Positive thinking will let you do everything better than negative thinking will
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 6 : Tweet : I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 7 : Tweet : In order to carry a positive action we must develop here a positive vision.
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 8 : Tweet : Yesterday is not ours to recover, but tomorrow is ours to win or lose.
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 9 : Tweet : Once you replace negative thoughts with positive ones, you'll start having positive results.
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 10 : Tweet : Keep your face to the sunshine and you cannot see a shadow.
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 11 : Hello Sunday...21Jan
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 12 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 13 : Evening Tweet3
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 14 : This is Tweet2....woo hoo
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 15 : Helllooo..Tweet1
+Sun Jan 21 2018 23:27:00 GMT-0800 (PST): Tweet 16 : Interesting.. https://t.co/Vegm6oz5lj
+Sun Jan 21 2018 23:29:19 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:29:19 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:29:19 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:29:19 GMT-0800 (PST): body: {"Search":[{"Title":"Baahubali: The Beginning","Year":"2015","imdbID":"tt2631186","Type":"movie","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmE4YjFmNWQtYTk5ZC00OGU3LWFlOTQtNThmYjBhZjhlNzU5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg"},{"Title":"Baahubali 2: The Conclusion","Year":"2017","imdbID":"tt4849438","Type":"movie","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMWRjOTAxMmQtMjViMC00OWU2LTlkZTQtNTYyYjhiZjMzYjg4XkEyXkFqcGdeQXVyODA2ODM3NDQ@._V1_SX300.jpg"},{"Title":"Baahubali: The Lost Legends","Year":"2017–","imdbID":"tt5523460","Type":"series","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BNjJjMjZlODQtYmUxYi00NzI2LTkzMmEtMzU3MDI3M2I2NzRhXkEyXkFqcGdeQXVyNzkyNTg2NzI@._V1_SX300.jpg"},{"Title":"Veer Baahubali","Year":"2005","imdbID":"tt4942328","Type":"movie","Poster":"N/A"}],"totalResults":"4","Response":"True"}
+Sun Jan 21 2018 23:33:29 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:33:29 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:33:29 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:33:29 GMT-0800 (PST): body: {"Title":"Baahubali: The Beginning","Year":"2015","Rated":"NOT RATED","Released":"09 Jul 2015","Runtime":"159 min","Genre":"Action, Drama, Fantasy","Director":"S.S. Rajamouli","Writer":"Vijayendra Prasad (story by), S.S. Rajamouli (screenplay by), C.H. Vijay Kumar (telugu dialogue), Ajay Kumar (telugu dialogue), Madhan Karky (tamil dialogue), Manoj Muntashir (hindi dialogue)","Actors":"Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia","Plot":"In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people.","Language":"Telugu, Tamil, Hindi","Country":"India","Awards":"2 wins & 7 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmE4YjFmNWQtYTk5ZC00OGU3LWFlOTQtNThmYjBhZjhlNzU5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.2/10"},{"Source":"Rotten Tomatoes","Value":"92%"}],"Metascore":"N/A","imdbRating":"8.2","imdbVotes":"82,868","imdbID":"tt2631186","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"Arka Media Works","Website":"http://baahubali.com/","Response":"True"}
+Sun Jan 21 2018 23:36:27 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:36:27 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:36:27 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:36:27 GMT-0800 (PST): body: {"Title":"Baahubali: The Beginning","Year":"2015","Rated":"NOT RATED","Released":"09 Jul 2015","Runtime":"159 min","Genre":"Action, Drama, Fantasy","Director":"S.S. Rajamouli","Writer":"Vijayendra Prasad (story by), S.S. Rajamouli (screenplay by), C.H. Vijay Kumar (telugu dialogue), Ajay Kumar (telugu dialogue), Madhan Karky (tamil dialogue), Manoj Muntashir (hindi dialogue)","Actors":"Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia","Plot":"In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people.","Language":"Telugu, Tamil, Hindi","Country":"India","Awards":"2 wins & 7 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmE4YjFmNWQtYTk5ZC00OGU3LWFlOTQtNThmYjBhZjhlNzU5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.2/10"},{"Source":"Rotten Tomatoes","Value":"92%"}],"Metascore":"N/A","imdbRating":"8.2","imdbVotes":"82,868","imdbID":"tt2631186","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"Arka Media Works","Website":"http://baahubali.com/","Response":"True"}
+Sun Jan 21 2018 23:36:27 GMT-0800 (PST): Title of the movie:undefined
+Sun Jan 21 2018 23:36:27 GMT-0800 (PST): Year the movie came out:
+Sun Jan 21 2018 23:36:27 GMT-0800 (PST): IMDB Rating of the movie:
+Sun Jan 21 2018 23:36:27 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:
+Sun Jan 21 2018 23:36:27 GMT-0800 (PST): Country where the movie was produced:
+Sun Jan 21 2018 23:36:27 GMT-0800 (PST): Language of the movie:
+Sun Jan 21 2018 23:36:27 GMT-0800 (PST): Plot of the movie:
+Sun Jan 21 2018 23:36:27 GMT-0800 (PST): Actors in the movie:
+Sun Jan 21 2018 23:37:28 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:37:28 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:37:28 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:37:28 GMT-0800 (PST): body: {"Title":"Baahubali: The Beginning","Year":"2015","Rated":"NOT RATED","Released":"09 Jul 2015","Runtime":"159 min","Genre":"Action, Drama, Fantasy","Director":"S.S. Rajamouli","Writer":"Vijayendra Prasad (story by), S.S. Rajamouli (screenplay by), C.H. Vijay Kumar (telugu dialogue), Ajay Kumar (telugu dialogue), Madhan Karky (tamil dialogue), Manoj Muntashir (hindi dialogue)","Actors":"Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia","Plot":"In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people.","Language":"Telugu, Tamil, Hindi","Country":"India","Awards":"2 wins & 7 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmE4YjFmNWQtYTk5ZC00OGU3LWFlOTQtNThmYjBhZjhlNzU5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.2/10"},{"Source":"Rotten Tomatoes","Value":"92%"}],"Metascore":"N/A","imdbRating":"8.2","imdbVotes":"82,868","imdbID":"tt2631186","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"Arka Media Works","Website":"http://baahubali.com/","Response":"True"}
+Sun Jan 21 2018 23:37:28 GMT-0800 (PST): Title of the movie:undefined
+Sun Jan 21 2018 23:37:28 GMT-0800 (PST): Year the movie came out:
+Sun Jan 21 2018 23:37:28 GMT-0800 (PST): IMDB Rating of the movie:
+Sun Jan 21 2018 23:37:28 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:
+Sun Jan 21 2018 23:37:28 GMT-0800 (PST): Country where the movie was produced:
+Sun Jan 21 2018 23:37:28 GMT-0800 (PST): Language of the movie:
+Sun Jan 21 2018 23:37:28 GMT-0800 (PST): Plot of the movie:
+Sun Jan 21 2018 23:37:28 GMT-0800 (PST): Actors in the movie:
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): body: {"Title":"Baahubali: The Beginning","Year":"2015","Rated":"NOT RATED","Released":"09 Jul 2015","Runtime":"159 min","Genre":"Action, Drama, Fantasy","Director":"S.S. Rajamouli","Writer":"Vijayendra Prasad (story by), S.S. Rajamouli (screenplay by), C.H. Vijay Kumar (telugu dialogue), Ajay Kumar (telugu dialogue), Madhan Karky (tamil dialogue), Manoj Muntashir (hindi dialogue)","Actors":"Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia","Plot":"In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people.","Language":"Telugu, Tamil, Hindi","Country":"India","Awards":"2 wins & 7 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmE4YjFmNWQtYTk5ZC00OGU3LWFlOTQtNThmYjBhZjhlNzU5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.2/10"},{"Source":"Rotten Tomatoes","Value":"92%"}],"Metascore":"N/A","imdbRating":"8.2","imdbVotes":"82,868","imdbID":"tt2631186","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"Arka Media Works","Website":"http://baahubali.com/","Response":"True"}
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): Title: undefined
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): Title of the movie:undefined
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): Year the movie came out:
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): IMDB Rating of the movie:
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): Country where the movie was produced:
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): Language of the movie:
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): Plot of the movie:
+Sun Jan 21 2018 23:38:51 GMT-0800 (PST): Actors in the movie:
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): body: {"Title":"Baahubali: The Beginning","Year":"2015","Rated":"NOT RATED","Released":"09 Jul 2015","Runtime":"159 min","Genre":"Action, Drama, Fantasy","Director":"S.S. Rajamouli","Writer":"Vijayendra Prasad (story by), S.S. Rajamouli (screenplay by), C.H. Vijay Kumar (telugu dialogue), Ajay Kumar (telugu dialogue), Madhan Karky (tamil dialogue), Manoj Muntashir (hindi dialogue)","Actors":"Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia","Plot":"In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people.","Language":"Telugu, Tamil, Hindi","Country":"India","Awards":"2 wins & 7 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmE4YjFmNWQtYTk5ZC00OGU3LWFlOTQtNThmYjBhZjhlNzU5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.2/10"},{"Source":"Rotten Tomatoes","Value":"92%"}],"Metascore":"N/A","imdbRating":"8.2","imdbVotes":"82,868","imdbID":"tt2631186","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"Arka Media Works","Website":"http://baahubali.com/","Response":"True"}
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): Title: undefined
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): Title of the movie:undefined
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): Year the movie came out:
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): IMDB Rating of the movie:
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): Country where the movie was produced:
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): Language of the movie:
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): Plot of the movie:
+Sun Jan 21 2018 23:39:18 GMT-0800 (PST): Actors in the movie:
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): body: {"Title":"Baahubali: The Beginning","Year":"2015","Rated":"NOT RATED","Released":"09 Jul 2015","Runtime":"159 min","Genre":"Action, Drama, Fantasy","Director":"S.S. Rajamouli","Writer":"Vijayendra Prasad (story by), S.S. Rajamouli (screenplay by), C.H. Vijay Kumar (telugu dialogue), Ajay Kumar (telugu dialogue), Madhan Karky (tamil dialogue), Manoj Muntashir (hindi dialogue)","Actors":"Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia","Plot":"In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people.","Language":"Telugu, Tamil, Hindi","Country":"India","Awards":"2 wins & 7 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BYmE4YjFmNWQtYTk5ZC00OGU3LWFlOTQtNThmYjBhZjhlNzU5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.2/10"},{"Source":"Rotten Tomatoes","Value":"92%"}],"Metascore":"N/A","imdbRating":"8.2","imdbVotes":"82,868","imdbID":"tt2631186","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"Arka Media Works","Website":"http://baahubali.com/","Response":"True"}
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): Title: Baahubali: The Beginning
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): Title of the movie:undefined
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): Year the movie came out:
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): IMDB Rating of the movie:
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): Country where the movie was produced:
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): Language of the movie:
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): Plot of the movie:
+Sun Jan 21 2018 23:41:37 GMT-0800 (PST): Actors in the movie:
+Sun Jan 21 2018 23:42:19 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:42:19 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:42:19 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:42:19 GMT-0800 (PST): Title of the movie:Baahubali: The Beginning
+Sun Jan 21 2018 23:42:19 GMT-0800 (PST): Year the movie came out:
+Sun Jan 21 2018 23:42:19 GMT-0800 (PST): IMDB Rating of the movie:
+Sun Jan 21 2018 23:42:19 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:
+Sun Jan 21 2018 23:42:19 GMT-0800 (PST): Country where the movie was produced:
+Sun Jan 21 2018 23:42:19 GMT-0800 (PST): Language of the movie:
+Sun Jan 21 2018 23:42:19 GMT-0800 (PST): Plot of the movie:
+Sun Jan 21 2018 23:42:19 GMT-0800 (PST): Actors in the movie:
+Sun Jan 21 2018 23:43:28 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:43:28 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:43:28 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:43:28 GMT-0800 (PST): Title of the movie: Baahubali 2: The Conclusion
+Sun Jan 21 2018 23:43:28 GMT-0800 (PST): Year the movie came out: 2017
+Sun Jan 21 2018 23:43:28 GMT-0800 (PST): IMDB Rating of the movie: NOT RATED
+Sun Jan 21 2018 23:43:28 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: 
+Sun Jan 21 2018 23:43:28 GMT-0800 (PST): Country where the movie was produced: 
+Sun Jan 21 2018 23:43:28 GMT-0800 (PST): Language of the movie: 
+Sun Jan 21 2018 23:43:28 GMT-0800 (PST): Plot of the movie: 
+Sun Jan 21 2018 23:43:28 GMT-0800 (PST): Actors in the movie: 
+Sun Jan 21 2018 23:43:47 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:43:48 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:43:48 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:43:48 GMT-0800 (PST): Title of the movie: Spiderman
+Sun Jan 21 2018 23:43:48 GMT-0800 (PST): Year the movie came out: 1990
+Sun Jan 21 2018 23:43:48 GMT-0800 (PST): IMDB Rating of the movie: N/A
+Sun Jan 21 2018 23:43:48 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: 
+Sun Jan 21 2018 23:43:48 GMT-0800 (PST): Country where the movie was produced: 
+Sun Jan 21 2018 23:43:48 GMT-0800 (PST): Language of the movie: 
+Sun Jan 21 2018 23:43:48 GMT-0800 (PST): Plot of the movie: 
+Sun Jan 21 2018 23:43:48 GMT-0800 (PST): Actors in the movie: 
+Sun Jan 21 2018 23:44:10 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:44:11 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:44:11 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:44:11 GMT-0800 (PST): Title of the movie: Speed 2: Cruise Control
+Sun Jan 21 2018 23:44:11 GMT-0800 (PST): Year the movie came out: 1997
+Sun Jan 21 2018 23:44:11 GMT-0800 (PST): IMDB Rating of the movie: PG-13
+Sun Jan 21 2018 23:44:11 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: 
+Sun Jan 21 2018 23:44:11 GMT-0800 (PST): Country where the movie was produced: 
+Sun Jan 21 2018 23:44:11 GMT-0800 (PST): Language of the movie: 
+Sun Jan 21 2018 23:44:11 GMT-0800 (PST): Plot of the movie: 
+Sun Jan 21 2018 23:44:11 GMT-0800 (PST): Actors in the movie: 
+Sun Jan 21 2018 23:53:29 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:53:29 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:53:29 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:53:29 GMT-0800 (PST): Title of the movie: Speed 2: Cruise Control
+Sun Jan 21 2018 23:53:29 GMT-0800 (PST): Year the movie came out: 1997
+Sun Jan 21 2018 23:53:29 GMT-0800 (PST): IMDB Rating of the movie: PG-13
+Sun Jan 21 2018 23:53:29 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: undefined
+Sun Jan 21 2018 23:53:29 GMT-0800 (PST): Country where the movie was produced: USA
+Sun Jan 21 2018 23:53:29 GMT-0800 (PST): Language of the movie: undefined
+Sun Jan 21 2018 23:53:29 GMT-0800 (PST): Plot of the movie: A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.
+Sun Jan 21 2018 23:53:29 GMT-0800 (PST): Actors in the movie: Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison
+Sun Jan 21 2018 23:54:25 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:54:25 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:54:25 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:54:25 GMT-0800 (PST): Title of the movie: Speed 2: Cruise Control
+Sun Jan 21 2018 23:54:25 GMT-0800 (PST): Year the movie came out: 1997
+Sun Jan 21 2018 23:54:25 GMT-0800 (PST): IMDB Rating of the movie: PG-13
+Sun Jan 21 2018 23:54:25 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: undefined
+Sun Jan 21 2018 23:54:25 GMT-0800 (PST): Country where the movie was produced: USA
+Sun Jan 21 2018 23:54:25 GMT-0800 (PST): Language of the movie: undefined
+Sun Jan 21 2018 23:54:25 GMT-0800 (PST): Plot of the movie: A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.
+Sun Jan 21 2018 23:54:25 GMT-0800 (PST): Actors in the movie: Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison
+Sun Jan 21 2018 23:55:28 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:55:29 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:55:29 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:55:29 GMT-0800 (PST): Title of the movie: Speed 2: Cruise Control
+Sun Jan 21 2018 23:55:29 GMT-0800 (PST): Year the movie came out: 1997
+Sun Jan 21 2018 23:55:29 GMT-0800 (PST): IMDB Rating of the movie: PG-13
+Sun Jan 21 2018 23:55:29 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: [object Object],[object Object],[object Object]
+Sun Jan 21 2018 23:55:29 GMT-0800 (PST): Country where the movie was produced: USA
+Sun Jan 21 2018 23:55:29 GMT-0800 (PST): Language of the movie: undefined
+Sun Jan 21 2018 23:55:29 GMT-0800 (PST): Plot of the movie: A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.
+Sun Jan 21 2018 23:55:29 GMT-0800 (PST): Actors in the movie: Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison
+Sun Jan 21 2018 23:55:52 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:55:52 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:55:52 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:55:52 GMT-0800 (PST): Title of the movie: Speed 2: Cruise Control
+Sun Jan 21 2018 23:55:52 GMT-0800 (PST): Year the movie came out: 1997
+Sun Jan 21 2018 23:55:52 GMT-0800 (PST): IMDB Rating of the movie: PG-13
+Sun Jan 21 2018 23:55:52 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: 3
+Sun Jan 21 2018 23:55:52 GMT-0800 (PST): Country where the movie was produced: USA
+Sun Jan 21 2018 23:55:52 GMT-0800 (PST): Language of the movie: undefined
+Sun Jan 21 2018 23:55:52 GMT-0800 (PST): Plot of the movie: A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.
+Sun Jan 21 2018 23:55:52 GMT-0800 (PST): Actors in the movie: Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison
+Sun Jan 21 2018 23:56:32 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:56:32 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:56:32 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:56:32 GMT-0800 (PST): Title of the movie: Speed 2: Cruise Control
+Sun Jan 21 2018 23:56:32 GMT-0800 (PST): Year the movie came out: 1997
+Sun Jan 21 2018 23:56:32 GMT-0800 (PST): IMDB Rating of the movie: PG-13
+Sun Jan 21 2018 23:56:32 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: object
+Sun Jan 21 2018 23:56:32 GMT-0800 (PST): Country where the movie was produced: USA
+Sun Jan 21 2018 23:56:32 GMT-0800 (PST): Language of the movie: undefined
+Sun Jan 21 2018 23:56:32 GMT-0800 (PST): Plot of the movie: A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.
+Sun Jan 21 2018 23:56:32 GMT-0800 (PST): Actors in the movie: Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison
+Sun Jan 21 2018 23:59:49 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Sun Jan 21 2018 23:59:49 GMT-0800 (PST): error: null
+Sun Jan 21 2018 23:59:49 GMT-0800 (PST): statusCode: 200
+Sun Jan 21 2018 23:59:49 GMT-0800 (PST): Title of the movie: Speed 2: Cruise Control
+Sun Jan 21 2018 23:59:49 GMT-0800 (PST): Year the movie came out: 1997
+Sun Jan 21 2018 23:59:49 GMT-0800 (PST): IMDB Rating of the movie: PG-13
+Sun Jan 21 2018 23:59:49 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: undefined
+Sun Jan 21 2018 23:59:49 GMT-0800 (PST): Country where the movie was produced: USA
+Sun Jan 21 2018 23:59:49 GMT-0800 (PST): Language of the movie: undefined
+Sun Jan 21 2018 23:59:49 GMT-0800 (PST): Plot of the movie: A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.
+Sun Jan 21 2018 23:59:49 GMT-0800 (PST): Actors in the movie: Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison
+Mon Jan 22 2018 00:00:52 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Mon Jan 22 2018 00:00:52 GMT-0800 (PST): error: null
+Mon Jan 22 2018 00:00:52 GMT-0800 (PST): statusCode: 200
+Mon Jan 22 2018 00:00:52 GMT-0800 (PST): Title of the movie: Speed 2: Cruise Control
+Mon Jan 22 2018 00:00:52 GMT-0800 (PST): Year the movie came out: 1997
+Mon Jan 22 2018 00:00:52 GMT-0800 (PST): IMDB Rating of the movie: PG-13
+Mon Jan 22 2018 00:00:52 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: undefined
+Mon Jan 22 2018 00:00:52 GMT-0800 (PST): Country where the movie was produced: USA
+Mon Jan 22 2018 00:00:52 GMT-0800 (PST): Language of the movie: undefined
+Mon Jan 22 2018 00:00:52 GMT-0800 (PST): Plot of the movie: A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.
+Mon Jan 22 2018 00:00:52 GMT-0800 (PST): Actors in the movie: Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison
+Mon Jan 22 2018 00:01:18 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Mon Jan 22 2018 00:01:18 GMT-0800 (PST): error: null
+Mon Jan 22 2018 00:01:18 GMT-0800 (PST): statusCode: 200
+Mon Jan 22 2018 00:01:18 GMT-0800 (PST): Title of the movie: Speed 2: Cruise Control
+Mon Jan 22 2018 00:01:18 GMT-0800 (PST): Year the movie came out: 1997
+Mon Jan 22 2018 00:01:18 GMT-0800 (PST): IMDB Rating of the movie: PG-13
+Mon Jan 22 2018 00:01:18 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: undefined
+Mon Jan 22 2018 00:01:18 GMT-0800 (PST): Country where the movie was produced: USA
+Mon Jan 22 2018 00:01:18 GMT-0800 (PST): Language of the movie: undefined
+Mon Jan 22 2018 00:01:18 GMT-0800 (PST): Plot of the movie: A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.
+Mon Jan 22 2018 00:01:18 GMT-0800 (PST): Actors in the movie: Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison
+Mon Jan 22 2018 00:01:41 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Mon Jan 22 2018 00:01:41 GMT-0800 (PST): error: null
+Mon Jan 22 2018 00:01:41 GMT-0800 (PST): statusCode: 200
+Mon Jan 22 2018 00:01:41 GMT-0800 (PST): Title of the movie: Speed 2: Cruise Control
+Mon Jan 22 2018 00:01:41 GMT-0800 (PST): Year the movie came out: 1997
+Mon Jan 22 2018 00:01:41 GMT-0800 (PST): IMDB Rating of the movie: PG-13
+Mon Jan 22 2018 00:01:41 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: 3%
+Mon Jan 22 2018 00:01:41 GMT-0800 (PST): Country where the movie was produced: USA
+Mon Jan 22 2018 00:01:41 GMT-0800 (PST): Language of the movie: undefined
+Mon Jan 22 2018 00:01:41 GMT-0800 (PST): Plot of the movie: A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.
+Mon Jan 22 2018 00:01:41 GMT-0800 (PST): Actors in the movie: Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison
+Mon Jan 22 2018 00:02:16 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Mon Jan 22 2018 00:02:16 GMT-0800 (PST): error: null
+Mon Jan 22 2018 00:02:16 GMT-0800 (PST): statusCode: 200
+Mon Jan 22 2018 00:02:16 GMT-0800 (PST): Title of the movie: Speed 2: Cruise Control
+Mon Jan 22 2018 00:02:16 GMT-0800 (PST): Year the movie came out: 1997
+Mon Jan 22 2018 00:02:16 GMT-0800 (PST): IMDB Rating of the movie: PG-13
+Mon Jan 22 2018 00:02:16 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: 3%
+Mon Jan 22 2018 00:02:16 GMT-0800 (PST): Country where the movie was produced: USA
+Mon Jan 22 2018 00:02:16 GMT-0800 (PST): Language of the movie: undefined
+Mon Jan 22 2018 00:02:16 GMT-0800 (PST): Plot of the movie: A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.
+Mon Jan 22 2018 00:02:16 GMT-0800 (PST): Actors in the movie: Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison
+Mon Jan 22 2018 00:03:27 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Mon Jan 22 2018 00:03:27 GMT-0800 (PST): Title of the movie: Speed 2: Cruise Control
+Mon Jan 22 2018 00:03:27 GMT-0800 (PST): Year the movie came out: 1997
+Mon Jan 22 2018 00:03:27 GMT-0800 (PST): IMDB Rating of the movie: PG-13
+Mon Jan 22 2018 00:03:27 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: 3%
+Mon Jan 22 2018 00:03:27 GMT-0800 (PST): Country where the movie was produced: USA
+Mon Jan 22 2018 00:03:27 GMT-0800 (PST): Language of the movie: undefined
+Mon Jan 22 2018 00:03:27 GMT-0800 (PST): Plot of the movie: A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.
+Mon Jan 22 2018 00:03:27 GMT-0800 (PST): Actors in the movie: Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison
+Mon Jan 22 2018 00:05:08 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Mon Jan 22 2018 00:05:09 GMT-0800 (PST): Title of the movie: Mr. Nobody
+Mon Jan 22 2018 00:05:09 GMT-0800 (PST): Year the movie came out: 2009
+Mon Jan 22 2018 00:05:09 GMT-0800 (PST): IMDB Rating of the movie: R
+Mon Jan 22 2018 00:05:09 GMT-0800 (PST): Rotten Tomatoes Rating of the movie: 66%
+Mon Jan 22 2018 00:05:09 GMT-0800 (PST): Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+Mon Jan 22 2018 00:05:09 GMT-0800 (PST): Language of the movie: undefined
+Mon Jan 22 2018 00:05:09 GMT-0800 (PST): Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Mon Jan 22 2018 00:05:09 GMT-0800 (PST): Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Mon Jan 22 2018 00:06:42 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Mon Jan 22 2018 00:06:42 GMT-0800 (PST): Title of the movie:                   Mr. Nobody
+Mon Jan 22 2018 00:06:42 GMT-0800 (PST): Year the movie came out:              2009
+Mon Jan 22 2018 00:06:42 GMT-0800 (PST): IMDB Rating of the movie:             R
+Mon Jan 22 2018 00:06:42 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:  66%
+Mon Jan 22 2018 00:06:42 GMT-0800 (PST): Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+Mon Jan 22 2018 00:06:42 GMT-0800 (PST): Language of the movie:                undefined
+Mon Jan 22 2018 00:06:42 GMT-0800 (PST): Plot of the movie:                    A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Mon Jan 22 2018 00:06:42 GMT-0800 (PST): Actors in the movie:                  Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Mon Jan 22 2018 00:06:55 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Mon Jan 22 2018 00:06:55 GMT-0800 (PST): Title of the movie:                   Mr. Nobody
+Mon Jan 22 2018 00:06:55 GMT-0800 (PST): Year the movie came out:              2009
+Mon Jan 22 2018 00:06:55 GMT-0800 (PST): IMDB Rating of the movie:             R
+Mon Jan 22 2018 00:06:55 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:  66%
+Mon Jan 22 2018 00:06:55 GMT-0800 (PST): Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+Mon Jan 22 2018 00:06:55 GMT-0800 (PST): Language of the movie:                undefined
+Mon Jan 22 2018 00:06:55 GMT-0800 (PST): Plot of the movie:                    A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Mon Jan 22 2018 00:06:55 GMT-0800 (PST): Actors in the movie:                  Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Mon Jan 22 2018 00:07:36 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: 
+Mon Jan 22 2018 00:07:36 GMT-0800 (PST): Title of the movie:                   Mr. Nobody
+
+Mon Jan 22 2018 00:07:36 GMT-0800 (PST): Year the movie came out:              2009
+
+Mon Jan 22 2018 00:07:36 GMT-0800 (PST): IMDB Rating of the movie:             R
+
+Mon Jan 22 2018 00:07:36 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:  66%
+Mon Jan 22 2018 00:07:36 GMT-0800 (PST): Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+Mon Jan 22 2018 00:07:36 GMT-0800 (PST): Language of the movie:                undefined
+Mon Jan 22 2018 00:07:36 GMT-0800 (PST): Plot of the movie:                    A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Mon Jan 22 2018 00:07:36 GMT-0800 (PST): Actors in the movie:                  Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Mon Jan 22 2018 00:08:13 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +dhoom
+Mon Jan 22 2018 00:08:14 GMT-0800 (PST): Title of the movie:                   Dhaam Dhoom
+
+Mon Jan 22 2018 00:08:14 GMT-0800 (PST): Year the movie came out:              2008
+
+Mon Jan 22 2018 00:08:14 GMT-0800 (PST): IMDB Rating of the movie:             N/A
+
+Mon Jan 22 2018 00:08:14 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:  undefined
+
+Mon Jan 22 2018 00:08:14 GMT-0800 (PST): Country where the movie was produced: India
+
+Mon Jan 22 2018 00:08:14 GMT-0800 (PST): Language of the movie:                undefined
+
+Mon Jan 22 2018 00:08:14 GMT-0800 (PST): Plot of the movie:                    Two weeks before his wedding, a Tamil doctor goes to Moscow for a conference but accidentally becomes involved with drug smuggler Anna. One morning he awakens to find Anna dead. He only has...
+
+Mon Jan 22 2018 00:08:14 GMT-0800 (PST): Actors in the movie:                  Jayam Ravi, Raai Laxmi, Kangana Ranaut, Jayaram
+
+Mon Jan 22 2018 00:08:34 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +dhoom+2
+Mon Jan 22 2018 00:08:34 GMT-0800 (PST): Title of the movie:                   Dhoom 2
+
+Mon Jan 22 2018 00:08:34 GMT-0800 (PST): Year the movie came out:              2006
+
+Mon Jan 22 2018 00:08:34 GMT-0800 (PST): IMDB Rating of the movie:             NOT RATED
+
+Mon Jan 22 2018 00:08:34 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:  90%
+
+Mon Jan 22 2018 00:08:34 GMT-0800 (PST): Country where the movie was produced: India
+
+Mon Jan 22 2018 00:08:34 GMT-0800 (PST): Language of the movie:                undefined
+
+Mon Jan 22 2018 00:08:34 GMT-0800 (PST): Plot of the movie:                    Jai and Ali return, this time on the trail of an international thief who steals priceless artifacts and has chosen Mumbai as his next target.
+
+Mon Jan 22 2018 00:08:34 GMT-0800 (PST): Actors in the movie:                  Hrithik Roshan, Abhishek Bachchan, Uday Chopra, Aishwarya Rai Bachchan
+
+Mon Jan 22 2018 00:08:45 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +dhoom+3
+Mon Jan 22 2018 00:08:45 GMT-0800 (PST): Title of the movie:                   Dhoom 3
+
+Mon Jan 22 2018 00:08:45 GMT-0800 (PST): Year the movie came out:              2013
+
+Mon Jan 22 2018 00:08:45 GMT-0800 (PST): IMDB Rating of the movie:             NOT RATED
+
+Mon Jan 22 2018 00:08:45 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:  80%
+
+Mon Jan 22 2018 00:08:45 GMT-0800 (PST): Country where the movie was produced: India
+
+Mon Jan 22 2018 00:08:45 GMT-0800 (PST): Language of the movie:                undefined
+
+Mon Jan 22 2018 00:08:45 GMT-0800 (PST): Plot of the movie:                    Sahir, who is trained in magic and acrobatics is robbing banks in Chicago belonging to the man responsible for his father's death. Brought in to help are Indian police officers, Jai and Ali.
+
+Mon Jan 22 2018 00:08:45 GMT-0800 (PST): Actors in the movie:                  Aamir Khan, Abhishek Bachchan, Katrina Kaif, Uday Chopra
+
+Mon Jan 22 2018 00:09:06 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +dog
+Mon Jan 22 2018 00:09:06 GMT-0800 (PST): Title of the movie:                   Alpha Dog
+
+Mon Jan 22 2018 00:09:06 GMT-0800 (PST): Year the movie came out:              2006
+
+Mon Jan 22 2018 00:09:06 GMT-0800 (PST): IMDB Rating of the movie:             R
+
+Mon Jan 22 2018 00:09:06 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:  54%
+
+Mon Jan 22 2018 00:09:06 GMT-0800 (PST): Country where the movie was produced: Germany, USA
+
+Mon Jan 22 2018 00:09:06 GMT-0800 (PST): Language of the movie:                undefined
+
+Mon Jan 22 2018 00:09:06 GMT-0800 (PST): Plot of the movie:                    Johnny and a couple pals kidnap Jake's 15-year-old brother, Zach, then assigns his buddy Frankie to be Zach's minder. They develop a brotherly friendship. Zach parties with his captors as things begin to spin out of control.
+
+Mon Jan 22 2018 00:09:06 GMT-0800 (PST): Actors in the movie:                  Bruce Willis, Matthew Barry, Emile Hirsch, Fernando Vargas
+
+Mon Jan 22 2018 00:09:14 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +ddddd
+Mon Jan 22 2018 00:10:32 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +ddddd
+Mon Jan 22 2018 00:11:18 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +ddddd
+Mon Jan 22 2018 00:13:43 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +ddddd
+Mon Jan 22 2018 00:13:43 GMT-0800 (PST): 200
+Mon Jan 22 2018 00:15:53 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +ddddd
+Mon Jan 22 2018 00:16:08 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +ddddd
+Mon Jan 22 2018 00:16:22 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +ddddd
+Mon Jan 22 2018 00:17:25 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +ddddd
+Mon Jan 22 2018 00:19:13 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +ddddd
+Mon Jan 22 2018 00:21:06 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +ddddd
+Mon Jan 22 2018 00:21:19 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +ddddd
+Mon Jan 22 2018 00:21:37 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +new+york
+Mon Jan 22 2018 00:21:37 GMT-0800 (PST): Title of the movie:                   Gangs of New York
+
+Mon Jan 22 2018 00:21:37 GMT-0800 (PST): Year the movie came out:              2002
+
+Mon Jan 22 2018 00:21:37 GMT-0800 (PST): IMDB Rating of the movie:             R
+
+Mon Jan 22 2018 00:21:37 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:  75%
+
+Mon Jan 22 2018 00:21:37 GMT-0800 (PST): Country where the movie was produced: USA, Italy
+
+Mon Jan 22 2018 00:21:37 GMT-0800 (PST): Language of the movie:                undefined
+
+Mon Jan 22 2018 00:21:37 GMT-0800 (PST): Plot of the movie:                    In 1863, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher, his father's killer.
+
+Mon Jan 22 2018 00:21:37 GMT-0800 (PST): Actors in the movie:                  Leonardo DiCaprio, Daniel Day-Lewis, Cameron Diaz, Jim Broadbent
+
+Mon Jan 22 2018 00:21:45 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +new+york+hindi
+Mon Jan 22 2018 00:21:54 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +newyork
+Mon Jan 22 2018 00:21:54 GMT-0800 (PST): Title of the movie:                   Ibis: Newyork canavari
+
+Mon Jan 22 2018 00:21:54 GMT-0800 (PST): Year the movie came out:              1971
+
+Mon Jan 22 2018 00:21:54 GMT-0800 (PST): IMDB Rating of the movie:             N/A
+
+Mon Jan 22 2018 00:21:54 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:  undefined
+
+Mon Jan 22 2018 00:21:54 GMT-0800 (PST): Country where the movie was produced: Turkey
+
+Mon Jan 22 2018 00:21:54 GMT-0800 (PST): Language of the movie:                undefined
+
+Mon Jan 22 2018 00:21:54 GMT-0800 (PST): Plot of the movie:                    N/A
+
+Mon Jan 22 2018 00:21:54 GMT-0800 (PST): Actors in the movie:                  Münir Özkul, Feri Cansel, Atif Kaptan, Feridun Çölgeçen
+
+Mon Jan 22 2018 00:22:07 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +baahubali+2
+Mon Jan 22 2018 00:22:07 GMT-0800 (PST): Title of the movie:                   Baahubali 2: The Conclusion
+
+Mon Jan 22 2018 00:22:07 GMT-0800 (PST): Year the movie came out:              2017
+
+Mon Jan 22 2018 00:22:07 GMT-0800 (PST): IMDB Rating of the movie:             NOT RATED
+
+Mon Jan 22 2018 00:22:07 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:  100%
+
+Mon Jan 22 2018 00:22:07 GMT-0800 (PST): Country where the movie was produced: India
+
+Mon Jan 22 2018 00:22:07 GMT-0800 (PST): Language of the movie:                undefined
+
+Mon Jan 22 2018 00:22:07 GMT-0800 (PST): Plot of the movie:                    When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.
+
+Mon Jan 22 2018 00:22:07 GMT-0800 (PST): Actors in the movie:                  Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia
+
+Mon Jan 22 2018 00:32:22 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +baahubali+2
+Mon Jan 22 2018 00:32:25 GMT-0800 (PST): Title of the movie:                   Baahubali 2: The Conclusion
+
+Mon Jan 22 2018 00:32:25 GMT-0800 (PST): Year the movie came out:              2017
+
+Mon Jan 22 2018 00:32:25 GMT-0800 (PST): IMDB Rating of the movie:             NOT RATED
+
+Mon Jan 22 2018 00:32:25 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:  100%
+
+Mon Jan 22 2018 00:32:25 GMT-0800 (PST): Country where the movie was produced: India
+
+Mon Jan 22 2018 00:32:25 GMT-0800 (PST): Language of the movie:                undefined
+
+Mon Jan 22 2018 00:32:25 GMT-0800 (PST): Plot of the movie:                    When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.
+
+Mon Jan 22 2018 00:32:25 GMT-0800 (PST): Actors in the movie:                  Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia
+
+Mon Jan 22 2018 00:33:31 GMT-0800 (PST): UserCommand: movie-this | userCommandQuery: +baahubali+2
+Mon Jan 22 2018 00:33:31 GMT-0800 (PST): Title of the movie:                   Baahubali 2: The Conclusion
+
+Mon Jan 22 2018 00:33:31 GMT-0800 (PST): Year the movie came out:              2017
+
+Mon Jan 22 2018 00:33:31 GMT-0800 (PST): IMDB Rating of the movie:             NOT RATED
+
+Mon Jan 22 2018 00:33:31 GMT-0800 (PST): Rotten Tomatoes Rating of the movie:  100%
+
+Mon Jan 22 2018 00:33:31 GMT-0800 (PST): Country where the movie was produced: India
+
+Mon Jan 22 2018 00:33:31 GMT-0800 (PST): Language of the movie:                undefined
+
+Mon Jan 22 2018 00:33:31 GMT-0800 (PST): Plot of the movie:                    When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.
+
+Mon Jan 22 2018 00:33:31 GMT-0800 (PST): Actors in the movie:                  Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia
+
+Mon Jan 22 2018 00:39:46 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:40:29 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:40:49 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:43:45 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:44:06 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:44:44 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:45:07 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:45:18 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:45:42 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:46:14 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:46:29 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:47:24 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:47:48 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:49:08 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:50:08 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:50:50 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 00:51:41 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 11:18:50 GMT-0800 (PST): UserCommand: aaa | userCommandQuery: 
+Mon Jan 22 2018 11:18:50 GMT-0800 (PST): ERROR: Invalid arguments passed, valid arguments are : my-tweets,spotify-this-song,movie-this,do-what-it-says
+Mon Jan 22 2018 11:19:06 GMT-0800 (PST): UserCommand: my-tweets | userCommandQuery: 
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 1 : Tweet : Positive thinking is more than just a tagline. It changes the way we behave. And I firmly believe that when… https://t.co/fZcLw5gBQc
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 2 : Tweet : The thing that lies at the foundation of positive change, the way I see it, is service to a fellow human being.
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 3 : Tweet : You can't make positive choices for the rest of your life without an environment that makes those choices e… https://t.co/EK2uiE2Esg
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 4 : Tweet : Pessimism leads to weakness, optimism to power.
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 5 : Tweet : Positive thinking will let you do everything better than negative thinking will
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 6 : Tweet : I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 7 : Tweet : In order to carry a positive action we must develop here a positive vision.
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 8 : Tweet : Yesterday is not ours to recover, but tomorrow is ours to win or lose.
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 9 : Tweet : Once you replace negative thoughts with positive ones, you'll start having positive results.
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 10 : Tweet : Keep your face to the sunshine and you cannot see a shadow.
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 11 : Hello Sunday...21Jan
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 12 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 13 : Evening Tweet3
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 14 : This is Tweet2....woo hoo
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 15 : Helllooo..Tweet1
+Mon Jan 22 2018 11:19:07 GMT-0800 (PST): Tweet 16 : Interesting.. https://t.co/Vegm6oz5lj
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): UserCommand: my-tweets | userCommandQuery: 
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 1 : Tweet : Positive thinking is more than just a tagline. It changes the way we behave. And I firmly believe that when… https://t.co/fZcLw5gBQc
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 2 : Tweet : The thing that lies at the foundation of positive change, the way I see it, is service to a fellow human being.
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 3 : Tweet : You can't make positive choices for the rest of your life without an environment that makes those choices e… https://t.co/EK2uiE2Esg
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 4 : Tweet : Pessimism leads to weakness, optimism to power.
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 5 : Tweet : Positive thinking will let you do everything better than negative thinking will
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 6 : Tweet : I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 7 : Tweet : In order to carry a positive action we must develop here a positive vision.
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 8 : Tweet : Yesterday is not ours to recover, but tomorrow is ours to win or lose.
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 9 : Tweet : Once you replace negative thoughts with positive ones, you'll start having positive results.
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 10 : Tweet : Keep your face to the sunshine and you cannot see a shadow.
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 11 : Hello Sunday...21Jan
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 12 : Twitter Apps https://t.co/pA0plRiyFr via @twitter
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 13 : Evening Tweet3
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 14 : This is Tweet2....woo hoo
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 15 : Helllooo..Tweet1
+Mon Jan 22 2018 22:30:38 GMT-0800 (PST): Tweet 16 : Interesting.. https://t.co/Vegm6oz5lj
+Mon Jan 22 2018 22:30:47 GMT-0800 (PST): UserCommand: my-twee | userCommandQuery: 
+Mon Jan 22 2018 22:30:47 GMT-0800 (PST): ERROR: Invalid arguments passed, valid arguments are : my-tweets,spotify-this-song,movie-this,do-what-it-says
+Mon Jan 22 2018 22:31:09 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +idhedho+bagundhe
+Mon Jan 22 2018 22:31:37 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +idhedho+bagundhe
+Mon Jan 22 2018 22:31:42 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +idhedho+bagundhe
+Mon Jan 22 2018 22:32:16 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +alludu+seenu
+Mon Jan 22 2018 22:34:04 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +Neeli+Neeli
+Mon Jan 22 2018 22:35:03 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +Neeli+Neeli
+Mon Jan 22 2018 22:36:50 GMT-0800 (PST): UserCommand: spotify-this-song | userCommandQuery: +Neeli+Neeli
+Mon Jan 22 2018 22:40:21 GMT-0800 (PST): UserCommand: spotify-this-son | userCommandQuery: 
+Mon Jan 22 2018 22:40:21 GMT-0800 (PST): ERROR: Invalid arguments passed, valid arguments are : my-tweets,spotify-this-song,movie-this,do-what-it-says
+Mon Jan 22 2018 22:40:33 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 22:42:16 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 22:43:44 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 22:44:08 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 22:46:19 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: +llll
+Mon Jan 22 2018 22:47:25 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: +llll
+Mon Jan 22 2018 22:52:49 GMT-0800 (PST): UserCommand: do-what-it-says | userCommandQuery: 
+Mon Jan 22 2018 22:52:49 GMT-0800 (PST): do-what-it-says : spotify-this-song | "I Want it That Way"
+Mon Jan 22 2018 22:52:49 GMT-0800 (PST): ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mon Jan 22 2018 22:52:50 GMT-0800 (PST): Song Name : I Want It That Way
+Mon Jan 22 2018 22:52:50 GMT-0800 (PST): Artist(s) : 
+Mon Jan 22 2018 22:52:50 GMT-0800 (PST): Spotify Song Link : https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+Mon Jan 22 2018 22:52:50 GMT-0800 (PST): Album Name : The Hits--Chapter One
+Mon Jan 22 2018 22:52:50 GMT-0800 (PST): ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
